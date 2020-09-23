@@ -1,0 +1,16 @@
+PROPERTIES:
+	* Alignment
+	* Appearance
+	* BorderStyle
+	* hWnd
+	* Max
+	* Min
+	* Scrolling
+	* Value
+
+CUSTOM METHODS:
+	* Refresh
+
+CUSTOM PROPERTIES:
+	* Marquee
+	* State
